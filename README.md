@@ -8,3 +8,5 @@ Laboratory works  on computer graphics
 * [Лабораторная работа №5](https://github.com/DASHULYA1337/CG/blob/master/lab5.html "Sobel operator") - Sobel operator
 * [Лабораторная работа №6](https://github.com/DASHULYA1337/CG/blob/master/lab6.html "алгоритм отсечение отрезка выпуклым многоугольником") - алгоритм отсечение отрезка выпуклым многоугольником
 * [Лабораторная работа №7](https://github.com/DASHULYA1337/CG/blob/master/lab7.html "алгоритм заполнения многоугольника цветом") - алгоритм заполнения многоугольника цветом
+* [Лабораторная работа №8](https://github.com/DASHULYA1337/CG/blob/master/lab8.html "поворот фигуры") - поворот фигуры
+* [Лабораторная работа №9](https://github.com/DASHULYA1337/CG/blob/master/lab9.html "моделирование освещенности") - моделирование освещенности
