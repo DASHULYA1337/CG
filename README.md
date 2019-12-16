@@ -11,3 +11,4 @@ Laboratory works  on computer graphics
 * [Лабораторная работа №8](https://github.com/DASHULYA1337/CG/blob/master/lab8.html "поворот фигуры") - поворот фигуры
 * [Лабораторная работа №9](https://github.com/DASHULYA1337/CG/blob/master/lab9.html "моделирование освещенности") - моделирование освещенности
 * [Лабораторная работа №10](https://github.com/DASHULYA1337/CG/blob/master/lab10.html "алгоритм использующий Z-буфер") - алгоритм использующий Z-буфер
+* [Лабораторная работа №11](https://github.com/DASHULYA1337/CG/blob/master/lab11.html "рекурсивный алгоритм построения многоугольника и заполнение его цветом") - рекурсивный алгоритм построения многоугольника и заполнение его цветом
